@@ -107,9 +107,11 @@ Provides a high-level overview of key KPIs and business performance.
 ---
 ## Power BI File
 
-Due to GitHub's file size limitations, the Power BI (.pbix) file is not included in this repository.
 
-The dashboard screenshots and documentation provide a complete overview of the project. The source file can be shared upon request.
+The Power BI source file is included in this repository and can be downloaded for review.
+
+File:
+- Retail_Sales_Dashboard.pbix
 
 ---
 ## Author
