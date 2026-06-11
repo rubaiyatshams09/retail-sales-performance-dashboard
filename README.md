@@ -26,10 +26,10 @@ The dashboard helps stakeholders:
 
 ## Dashboard Pages
 
-### Executive Summary
-Provides a high-level overview of key KPIs and business performance.
+### Dashboard Overview
 
-![Executive Summary](executive-summary.png)
+![Dashboard Overview](dashboard-overview.png)
+
 
 ---
 
@@ -83,9 +83,10 @@ Examines the impact of holidays and events on sales performance.
 
 ---
 
-## Dashboard Overview
+## Executive Summary
+Provides a high-level overview of key KPIs and business performance.
 
-![Dashboard Overview](dashboard-overview.png)
+![Executive Summary](executive-summary.png)
 
 ---
 
