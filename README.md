@@ -111,7 +111,9 @@ Provides a high-level overview of key KPIs and business performance.
 The Power BI source file is included in this repository and can be downloaded for review.
 
 File:
-- Retail_Sales_Dashboard.pbix
+![PowerBI Dashboard](Retail_Sales_Dashboard.pbix)
+
+The file can be downloaded and opened using Microsoft Power BI Desktop.
 
 ---
 ## Author
