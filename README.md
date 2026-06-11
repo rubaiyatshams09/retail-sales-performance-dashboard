@@ -12,8 +12,24 @@ The dashboard helps stakeholders:
 - Analyze holiday impact on revenue
 - Support data-driven decision making
 
+
 ---
 
+## Business Problem
+
+Retail managers often struggle to understand the factors driving sales performance across stores, promotions, and seasonal events.
+
+This dashboard was created to provide a centralized view of business performance and answer critical questions such as:
+
+- Which stores are the top and bottom performers?
+- Are promotional activities generating meaningful sales uplift?
+- How do holiday periods influence customer purchasing behavior?
+- Which product categories contribute most to overall revenue?
+- What trends and patterns should management monitor to improve performance?
+
+The dashboard transforms transactional sales data into actionable business insights, enabling stakeholders to make informed decisions and identify opportunities for growth.
+
+---
 ## Tools & Technologies
 
 - Power BI
